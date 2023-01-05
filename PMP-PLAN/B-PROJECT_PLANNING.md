@@ -9,7 +9,7 @@ Project management WBS is shown in the Gantt Chart below:
 
 
 
-
+<img width="680" alt="1" src="https://user-images.githubusercontent.com/94028277/210863521-18ef1267-7fe5-41d9-907b-205b09f5f3d4.png">
 
 <br><br><br>
 ##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
